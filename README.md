@@ -1,1 +1,3 @@
-"# Triangulo_Pascal"  
+"# Triangulo_Pascal"
+
+// borrando las modificaciones del commit
