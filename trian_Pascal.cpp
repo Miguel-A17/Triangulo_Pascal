@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	
-	
+	//mandando el valor del tamanio, creando el triangulo y mostrando
 	pascall t1(5);
 	t1.crearTrian();
 	t1.muestraT();
