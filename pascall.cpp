@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-
+// Usuario externo asiendo modificaciones >> Yonatha Ramirez
 pascall::pascall(int n) {
 	triangulo = new int* [n];
 	N = n;
