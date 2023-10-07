@@ -4,8 +4,6 @@
 
 // Primer branch
 // Primer checkout
-
-//Realizando cambios desde GitHub
 class pascall
 {
 	int ** triangulo;
